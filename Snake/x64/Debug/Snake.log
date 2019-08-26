@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\v8002382\source\repos\snake\snake\main.cpp(123): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\v8002382\source\repos\snake\snake\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\v8002382\source\repos\Snake\x64\Debug\Snake.exe
